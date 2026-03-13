@@ -1,1 +1,1 @@
-"# Notes_Lang" 
+Notes about Langchain and Langgraph
